@@ -10,10 +10,10 @@ public class ViewController {
 	public String Index() {
 		return "index";
 	}
+	
 	@GetMapping("/contacto")
 	public String Contacto() {	
 		return "contacto";
 	}
-	
 	
 }
