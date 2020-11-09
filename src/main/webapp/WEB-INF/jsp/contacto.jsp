@@ -8,4 +8,5 @@
 <body>
     <h1>contacto</h1>
 </body>
+<script src="/js/prueba.js"></script>
 </html>
