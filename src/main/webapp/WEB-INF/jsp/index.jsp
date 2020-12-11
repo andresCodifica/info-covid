@@ -28,6 +28,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#contacto">Regístrarse</a>
+                        </li> 
+                         <li class="nav-item">
+                            <a class="nav-link" href="#contacto">Contactenos</a>
                         </li>                       
                     </ul>
                 </div>
